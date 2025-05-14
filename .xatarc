@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Abhishek-Farswal-s-workspace-34vtfj.us-east-1.xata.sh/db/SnapCast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
